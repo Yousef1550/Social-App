@@ -21,8 +21,8 @@ This is a simple social app built with Express.js and Sequelize ORM. The app pro
 
 ## Prerequisites
 - Ensure you have **Node.js** and **npm** installed on your machine.
+- To install the project dependencies, run `npm install` in the project directory terminal.
 - Set up a SQL database (e.g., MySQL or PostgreSQL).
-
 ---
 
 "# Social-App" 
